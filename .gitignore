@@ -1,0 +1,15 @@
+git status
+[...]
+# Untracked files:
+[...]
+#       
+#       
+#       
+#       
+#       
+[...]
+# exclude everything except directory foo/bar
+
+!/src
+!/.gitignore
+!/foo/langauss.cxx
